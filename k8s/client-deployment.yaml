@@ -15,5 +15,8 @@ spec:
       containers:
         - name: client
           image: stephengrider/multi-client
+          resources:
+           requests:
+            cpu: "50m"
           ports:
             - containerPort: 3000

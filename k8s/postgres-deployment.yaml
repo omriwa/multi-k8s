@@ -19,6 +19,9 @@ spec:
       containers:
         - name: postgres
           image: postgres
+          resources:
+           requests:
+            cpu: "50m"
           env:
             - name: POSTGRES_PASSWORD
               valueFrom:

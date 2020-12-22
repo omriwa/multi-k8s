@@ -15,6 +15,9 @@ spec:
       containers:
         - name: worker
           image: stephengrider/multi-worker
+          resources:
+           requests:
+            cpu: "50m"
           env:
             - name: REDIS_HOST
               value: redis-cluster-ip-service
