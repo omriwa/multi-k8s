@@ -1,4 +1,4 @@
-# Project name
+# Multi-k8s
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 ![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
@@ -6,37 +6,32 @@
 ![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
 
-Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
-
-Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.
+Project name is a `Multi-k8s` that allows `client` to do `calculate fib`.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
-<!--- These are just example requirements. Add, duplicate or remove as required --->
-* You have installed the latest version of `<coding_language/dependency/requirement_1>`
-* You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not.
-* You have read `<guide/link/documentation_related_to_project>`.
+* You have installed the latest version of docker desktop
 
 ## Installing <project_name>
 
-To install <project_name>, follow these steps:
+To install Multi-k8s, follow these steps:
 
 Windows:
 ```
-<install_command>
+install docker desktop
 ```
 ## Using <project_name>
 
-To use <project_name>, follow these steps:
+To use Multi-k8s, follow these steps:
 
 ```
-<usage_example>
+kubectl apply
 ```
 
 Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
 
-## Contributing to <project_name>
+## Contributing to Multi-k8s
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
 To contribute to <project_name>, follow these steps:
 
@@ -59,3 +54,5 @@ You might want to consider using something like the [All Contributors](https://g
 ## Contact
 
 If you want to contact me you can reach me at <omriwallach1992@gmail.com>.
+https://www.linkedin.com/in/omri-wallach-19989a113/
+https://github.com/omriwa
