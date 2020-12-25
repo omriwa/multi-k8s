@@ -54,15 +54,13 @@ You might want to consider using something like the [All Contributors](https://g
 ## Contact
 
 If you want to contact me you can reach me at:
-* <a href="omriwallach1992@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
++ <a href="omriwallach1992@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
 />
 </a>
-<br>
-* <a href="https://www.linkedin.com/in/omri-wallach-19989a113/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
++ <a href="https://www.linkedin.com/in/omri-wallach-19989a113/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
 />
 </a>
-<br>
-* <a href="https://github.com/omriwa">
++ <a href="https://github.com/omriwa">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
 />
 </a>
