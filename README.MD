@@ -77,3 +77,6 @@ If you want to contact me you can reach me at:
 
 </ul>
 
+## Contributing
+
+ - [By Omri Wallach](https://www.linkedin.com/in/omri-wallach-19989a113/)
